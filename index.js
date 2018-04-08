@@ -20,7 +20,7 @@ function theBeatlesPlay(musicians,instruments){
    var counter = 0
     do {
       emptyarray.push("I love the Beatles!")
-    }while (n<15){
+    }while (counter<15){
       counter++
     }
        return emptyarray
